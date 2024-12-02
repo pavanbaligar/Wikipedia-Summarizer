@@ -1,4 +1,4 @@
-# Privacy Policy for Wikipedia Summarizer Extension
+# Privacy Policy for Wikipedia Summarizer
 
 **Effective Date**: 2/12/2024
 
